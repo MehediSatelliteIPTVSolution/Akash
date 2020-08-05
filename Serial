@@ -60,3 +60,6 @@ http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA ENT.",Ruposhi Bangla [IN]
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (2)
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
