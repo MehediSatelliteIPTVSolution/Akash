@@ -1,18 +1,22 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="BANGLA",CORONA LIVE
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA",BTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA",BTV
 http://103.141.66.36/bpk-tv/10330/default/manifest.mpd?=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA",BTV WORLD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA",BTV WORLD
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD [BD]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="BANGLA",NTV [UK]
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
@@ -29,8 +33,10 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="BANGLA",BANGLA TV HD
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
@@ -42,9 +48,6 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="BANGLA",TITAS TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="BANGLA",NTV [UK]
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
