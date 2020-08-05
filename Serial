@@ -64,18 +64,20 @@ https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies [IN] (2)
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BANGLA CINEMA",MY CINEMA IPTV [BD]
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX FHD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 FHD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
